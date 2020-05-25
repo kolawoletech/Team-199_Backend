@@ -1,0 +1,25 @@
+{
+  "name": "what-3-words",
+  "version": "1.0.0",
+  "description": "Backend repo for Team-199",
+  "main": "index.js",
+  "dependencies": {
+    "@what3words/api": "^3.1.0",
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kolawoletech/Team-199_Backend.git"
+  },
+  "author": "kolawole Olulana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kolawoletech/Team-199_Backend/issues"
+  },
+  "homepage": "https://github.com/kolawoletech/Team-199_Backend#readme"
+}
